@@ -107,7 +107,7 @@ DKmap <- l_dk %>% addTiles() %>%
                          }") %>% 
 addControl("", position = "topright")
 ```
-
+ 
  
 Save map as a html document
 ```{r}
