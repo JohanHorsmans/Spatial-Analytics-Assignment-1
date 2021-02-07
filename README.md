@@ -1,4 +1,4 @@
-# Spatial-Analytics
+# Spatial Analytics Assignment 1:
 
 Here is the code for my submission for Spatial Analytics assignment 1:
 
